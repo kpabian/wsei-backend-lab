@@ -1,0 +1,12 @@
+D:\Projects\wsei-backend-lab\ApplicationCore\bin\Debug\net7.0\ApplicationCore.deps.json
+D:\Projects\wsei-backend-lab\ApplicationCore\bin\Debug\net7.0\ApplicationCore.dll
+D:\Projects\wsei-backend-lab\ApplicationCore\bin\Debug\net7.0\ApplicationCore.pdb
+D:\Projects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfoInputs.cache
+D:\Projects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfo.cs
+D:\Projects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.csproj.CoreCompileInputs.cache
+D:\Projects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.sourcelink.json
+D:\Projects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.dll
+D:\Projects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
+D:\Projects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
+D:\Projects\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll

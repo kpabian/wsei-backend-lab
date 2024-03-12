@@ -1,0 +1,16 @@
+D:\Projects\wsei-backend-lab\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+D:\Projects\wsei-backend-lab\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+D:\Projects\wsei-backend-lab\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+D:\Projects\wsei-backend-lab\Infrastructure\bin\Debug\net7.0\ApplicationCore.dll
+D:\Projects\wsei-backend-lab\Infrastructure\bin\Debug\net7.0\ApplicationCore.pdb
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\Infrastructure.sourcelink.json
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\Infrastr.15EFFBFE.Up2Date
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+D:\Projects\wsei-backend-lab\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

@@ -21,6 +21,11 @@ public class QuizUserService: IQuizUserService
         throw new NotImplementedException();
     }
 
+    public List<Quiz> GetAllQuizes()
+    {
+        return quizRepository.FindAll().ToList();
+    }
+
     public Quiz? FindQuizById(int id)
     {
         return quizRepository.FindById(id);

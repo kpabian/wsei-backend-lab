@@ -1,0 +1,20 @@
+﻿@page "/Quiz"
+@model BackendLab01.Pages.Index
+@{
+    ViewData["Title"] = "Quizes";
+    Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+<h3>@ViewData["Title"]</h3>
+
+@if (Model.Quizes is not null)
+{
+    <ul>
+        @foreach (var item in Model.Quizes)
+        {
+            <li>
+                <a asp-page="/Quiz/Item" asp-route-itemId="@item.Items.First().Id" asp-route-quizId="@item.Id">@item.Title</a>
+            </li>
+        }
+    </ul>
+}
