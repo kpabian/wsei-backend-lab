@@ -16,11 +16,6 @@ public class QuizUserService: IQuizUserService
         this.itemRepository = itemRepository;
     }
 
-    public Quiz CreateAndGetQuizRandom(int count)
-    {
-        throw new NotImplementedException();
-    }
-
     public List<Quiz> GetAllQuizes()
     {
         return quizRepository.FindAll().ToList();
@@ -38,6 +33,10 @@ public class QuizUserService: IQuizUserService
         answerRepository.Add(userAnswer);
     }
 
+    public IEnumerable<Quiz> FindAllQuizzes()
+    {
+        return quizRepository.FindAll();
+    }
 
     public List<QuizItemUserAnswer> GetUserAnswersForQuiz(int quizId, int userId)
     {
@@ -46,5 +45,11 @@ public class QuizUserService: IQuizUserService
         //     .Where(x => x. UserId == userId)
         //     .ToList();
         return answerRepository.FindBySpecification(new QuizItemsForQuizIdFilledByUser(quizId, userId)).ToList();
+    }
+
+    public int CountCorrectAnswersForQuizFilledByUser(int quizId, int userId)
+    {
+        return GetUserAnswersForQuiz(quizId, userId)
+            .Count(e => e.IsCorrect());
     }
 }

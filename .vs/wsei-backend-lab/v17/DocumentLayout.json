@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\wsei-backend-lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\validators\\newquizitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\validators\\newquizitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\validators\\quizitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\validators\\quizitemvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\dto\\newquizitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\newquizitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\controllers\\apiquizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\apiquizadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\yapper\\autoyapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\yapper\\autoyapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\projects\\wsei-backend-lab\\applicationcore\\interfaces\\userservice\\iquizuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\userservice\\iquizuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\dto\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\feedbackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\projects\\wsei-backend-lab\\applicationcore\\models\\quizitemuseranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\models\\quizitemuseranswer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\controllers\\apiquizusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\apiquizusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\dto\\quizitemuseranswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\dto\\quizitemuseranswerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|d:\\projects\\wsei-backend-lab\\webapi\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA9300C-D9DD-434E-881F-60185B61B2B9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|d:\\projects\\wsei-backend-lab\\applicationcore\\interfaces\\adminservice\\quizadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F971AE2-DF13-4347-9115-F271EF2FCB12}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\adminservice\\quizadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewQuizItemValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Validators\\NewQuizItemValidator.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Validators\\NewQuizItemValidator.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Validators\\NewQuizItemValidator.cs",
+              "RelativeToolTip": "WebAPI\\Validators\\NewQuizItemValidator.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBEAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:32:20.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewQuizItemDto.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Dto\\NewQuizItemDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dto\\NewQuizItemDto.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Dto\\NewQuizItemDto.cs",
+              "RelativeToolTip": "WebAPI\\Dto\\NewQuizItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:30:24.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizItemValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Validators\\QuizItemValidator.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Validators\\QuizItemValidator.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Validators\\QuizItemValidator.cs",
+              "RelativeToolTip": "WebAPI\\Validators\\QuizItemValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:16:29.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebAPI",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-09T19:16:11.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IQuizUserService.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\ApplicationCore\\Interfaces\\UserService\\IQuizUserService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\UserService\\IQuizUserService.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\ApplicationCore\\Interfaces\\UserService\\IQuizUserService.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\UserService\\IQuizUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:06:30.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeedbackDto.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Dto\\FeedbackDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dto\\FeedbackDto.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Dto\\FeedbackDto.cs",
+              "RelativeToolTip": "WebAPI\\Dto\\FeedbackDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:59:10.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBoAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:38:09.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiQuizAdminController.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Controllers\\ApiQuizAdminController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ApiQuizAdminController.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Controllers\\ApiQuizAdminController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ApiQuizAdminController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA5wEIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:23:55.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuizItemUserAnswer.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\ApplicationCore\\Models\\QuizItemUserAnswer.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Models\\QuizItemUserAnswer.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\ApplicationCore\\Models\\QuizItemUserAnswer.cs",
+              "RelativeToolTip": "ApplicationCore\\Models\\QuizItemUserAnswer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T19:10:20.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AutoYapperProfiles.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Yapper\\AutoYapperProfiles.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Yapper\\AutoYapperProfiles.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Yapper\\AutoYapperProfiles.cs",
+              "RelativeToolTip": "WebAPI\\Yapper\\AutoYapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:39:19.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuizItemUserAnswerDto.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Dto\\QuizItemUserAnswerDto.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Dto\\QuizItemUserAnswerDto.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Dto\\QuizItemUserAnswerDto.cs",
+              "RelativeToolTip": "WebAPI\\Dto\\QuizItemUserAnswerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T18:57:20.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiQuizUserController.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Controllers\\ApiQuizUserController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ApiQuizUserController.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\Controllers\\ApiQuizUserController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ApiQuizUserController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAWwDMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:31:43.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\WebAPI\\SeedData.cs",
+              "RelativeDocumentMoniker": "WebAPI\\SeedData.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\WebAPI\\SeedData.cs",
+              "RelativeToolTip": "WebAPI\\SeedData.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAjwCAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:36:35.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuizAdminService.cs",
+              "DocumentMoniker": "D:\\Projects\\wsei-backend-lab\\ApplicationCore\\Interfaces\\AdminService\\QuizAdminService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\AdminService\\QuizAdminService.cs",
+              "ToolTip": "D:\\Projects\\wsei-backend-lab\\ApplicationCore\\Interfaces\\AdminService\\QuizAdminService.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\AdminService\\QuizAdminService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T17:27:18.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

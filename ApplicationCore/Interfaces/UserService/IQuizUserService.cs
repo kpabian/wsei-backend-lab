@@ -6,11 +6,11 @@ public interface IQuizUserService
 
     Quiz? FindQuizById(int id);
 
-    List<Quiz> GetAllQuizes();
+    IQueryable<Quiz> FindAll();
 
     void SaveUserAnswerForQuiz(int quizId, int userId, int quizItemId, string answer);
 
-    List<QuizItemUserAnswer> GetUserAnswersForQuiz(int quizId, int userId);
+    IQueryable<QuizItemUserAnswer> GetUserAnswersForQuiz(int quizId, int userId);
 
     int CountCorrectAnswersForQuizFilledByUser(int quizId, int userId)
     {

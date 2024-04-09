@@ -2,19 +2,12 @@
 
 namespace BackendLab01;
 
-public class Quiz : IIdentity<int>
+public class Quiz: IIdentity<int>
 {
     public int Id { get; set; }
 
-    public string Title { get; }
+    public string Title { get; init; } = "";
 
-    public List<QuizItem> Items { get; }
-
-    public Quiz(int id, List<QuizItem> items, string title)
-    {
-        Id = id;
-        Items = items;
-        Title = title;
-    }
+    public List<QuizItem> Items { get; init; } = new();
 
 }
